@@ -27,7 +27,7 @@ This project demonstrates end-to-end **Data Analysis & Exploratory Data Analysis
 
 ## 📊 Dataset
 
-**Online Retail Dataset — UCI Machine Learning Repository**
+**Online Retail Dataset — [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail)**
 
 The dataset contains transactions from a UK-based online retail store selling gift items between December 2010 and December 2011.
 
@@ -86,6 +86,18 @@ retail-sales-intelligence/
 * Insightful visualizations
 * Business recommendations based on data
 * Portfolio-ready data project
+
+---
+## 📊 Visualizations
+
+### Monthly Revenue Trend
+![Monthly Revenue](images/monthly_revenue.png)
+
+### Top 10 Products by Revenue
+![Top Products](images/top_products.png)
+
+### RFM Customer Segmentation
+![RFM Analysis](images/rfm_analysis.png)
 
 ---
 
